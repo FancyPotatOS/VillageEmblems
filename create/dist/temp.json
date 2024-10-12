@@ -1,0 +1,16 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "villageemblems:item/base",
+	"textures": {
+		"particle": "_BASE_",
+		"base": "_BASE_",
+		"lower_detail_0": "_LOWER_DETAIL_0_",
+		"lower_detail_1": "_LOWER_DETAIL_1_",
+		"lower_detail_2": "_LOWER_DETAIL_2_",
+		"body": "_BODY_",
+		"middle_detail_0": "_MIDDLE_DETAIL_0_",
+		"middle_detail_1": "_MIDDLE_DETAIL_1_",
+		"middle_detail_2": "_MIDDLE_DETAIL_2_",
+		"emblem": "_EMBLEM_"
+	}
+}
