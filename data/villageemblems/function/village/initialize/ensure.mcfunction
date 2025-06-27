@@ -17,6 +17,7 @@ function villageemblems:village/initialize/macro_village_exists with storage vil
 # Create if doesn't exist
 execute if data storage villageemblems:data {exists:0b} run function villageemblems:village/initialize/create
 
+# Clean up
 data remove storage villageemblems:data exists
 function villageemblems:macro/clear_cursor
 

@@ -7,5 +7,9 @@
 #
 
 
-$data modify storage villageemblems:data emblems.$(id) set value {custom_model_data:$(custom_model_data)}
+$data modify storage villageemblems:data emblems.$(id) set value {version: 2, emblem_data: {}, name: ""}
+$data modify storage villageemblems:data emblems.$(id).emblem_data set from storage villageemblems:data new_emblem 
+$data modify storage villageemblems:data emblems.$(id).name set from storage towcit:data names[$(id)]
+
+$data modify storage villageemblems:data latest_name set from storage towcit:data names[$(id)]
 
