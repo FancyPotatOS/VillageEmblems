@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/emblem/base",
+  "textures": {
+		"emblem": "villageemblems:item/emblem/creeper/gray",
+		"particle": "villageemblems:item/emblem/creeper/gray"
+  }
+}

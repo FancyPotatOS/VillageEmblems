@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/body/base",
+  "textures": {
+		"body": "villageemblems:item/body/triangle/left/dark_green",
+		"particle": "villageemblems:item/body/triangle/left/dark_green"
+  }
+}

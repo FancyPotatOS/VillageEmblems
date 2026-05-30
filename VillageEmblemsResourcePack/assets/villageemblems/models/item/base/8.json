@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/base/base",
+  "textures": {
+		"base": "villageemblems:item/base/8",
+		"particle": "villageemblems:item/base/8"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/middle_detail_0/base",
+  "textures": {
+		"middle_detail_0": "villageemblems:item/detail/diagonal/top_left/yellow",
+		"particle": "villageemblems:item/detail/diagonal/top_left/yellow"
+  }
+}

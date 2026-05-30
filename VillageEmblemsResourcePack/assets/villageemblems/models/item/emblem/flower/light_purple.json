@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/emblem/base",
+  "textures": {
+		"emblem": "villageemblems:item/emblem/flower/light_purple",
+		"particle": "villageemblems:item/emblem/flower/light_purple"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/emblem/base",
+  "textures": {
+		"emblem": "villageemblems:item/emblem/flow/black",
+		"particle": "villageemblems:item/emblem/flow/black"
+  }
+}

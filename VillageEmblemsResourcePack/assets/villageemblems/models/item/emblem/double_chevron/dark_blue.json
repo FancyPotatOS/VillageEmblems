@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/emblem/base",
+  "textures": {
+		"emblem": "villageemblems:item/emblem/double_chevron/dark_blue",
+		"particle": "villageemblems:item/emblem/double_chevron/dark_blue"
+  }
+}

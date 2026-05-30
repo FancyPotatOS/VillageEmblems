@@ -1,0 +1,7 @@
+{
+  "parent": "villageemblems:item/body/base",
+  "textures": {
+		"body": "villageemblems:item/body/shield/black",
+		"particle": "villageemblems:item/body/shield/black"
+  }
+}
